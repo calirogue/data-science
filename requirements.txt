@@ -9,7 +9,7 @@ autopep8==1.5.2
 backcall==0.1.0
 beautifulsoup4==4.8.2
 bleach==3.1.4
-certifi==2020.4.5
+certifi==2022.12.7
 chardet==3.0.4
 chart-studio==1.1.0
 chromedriver-binary==83.0.4103.14.0
